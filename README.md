@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Abdalrhman Eslam Eldip
-- 
-- 👀 I’m interested in making website as i love design especially at web design
-- 
-- 🌱 I'm currently learning and i can't tell you i will stop learning because learning never stop
--    
-- 💞️ I’m looking to collaborate on good team with creativity at their job and 
--     develop my skills and learning more and more from their knowledge
+
 -     
 - 📫 How to reach me  abdo.eslam8000@gmail.com or https://www.facebook.com/capo.king.7967
 - 
@@ -16,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
-<h2 align="center">Flutter Developer 💎</h2>
+<h1 align="center">Hi 👋, I'm Abdalrhman Eslam Eldip 👑</h1>
+<h2 align="center">Front End Developer Developer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004080&style=flat" alt="a-hemeda" height="30" width="180" />
 	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="30" width="120" />
