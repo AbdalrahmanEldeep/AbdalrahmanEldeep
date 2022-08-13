@@ -1,14 +1,4 @@
 
--     
-- 📫 How to reach me  abdo.eslam8000@gmail.com or https://www.facebook.com/capo.king.7967
-- 
-
-<!---
-Abdalrhman8000/Abdalrhman8000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <h1 align="center">Hi 👋, I'm Abdalrhman Eslam Eldip 👑</h1>
 <h2 align="center">Front End Developer Developer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
