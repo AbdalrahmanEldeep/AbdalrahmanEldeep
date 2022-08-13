@@ -41,5 +41,4 @@
 ## 📊 GitHub Stats
 <p align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrhman8000&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="a-hemeda" /> </p>
 <p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Abdalrhman8000&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" /> </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdalrhman8000&theme=vue)
 
