@@ -23,7 +23,7 @@
 
 # 06 [Medisite](https://abdalrhman8000.github.io/Medisite/)
 
-# 07 [Portofolio](https://abdalrhman8000.github.io/Portofolio-SamCreative/)
+# 07 [Portofolio](https://abdalrhman8000.github.io/Portofolio-SamCreative.Ts/)
 
 # 08 [Portofolio](https://abdalrhman8000.github.io/Personal_Portfolio_lv_4/)
 
