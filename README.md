@@ -45,5 +45,9 @@
 
 ![Pettier](https://github-profile-trophy.vercel.app/?username=Abdalrhman8000)
 
+![Pettier](https://github-readme-streak-stats.herokuapp.com/?user=Abdalrhman8000)
+
+![Pettier](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrhman8000&theme=vue)
+
 <p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Abdalrhman8000&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" /> </p>
 
