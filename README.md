@@ -52,5 +52,4 @@
 
 ![Pettier](https://github-readme-stats.vercel.app/api?username=Abdalrhman8000&theme=vue)
 
-<p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Abdalrhman8000&show_icons=true&locale=en&theme=vue" alt="a-hemeda" /> </p>
 
