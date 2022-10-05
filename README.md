@@ -46,7 +46,7 @@
 
 ![Pettier](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrhman8000&theme=vue)
 
-![Pettier](https://github-readme-stats.vercel.app/api?username=Abdalrhman8000&theme=vue)
+![Pettier](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalrhman8000&theme=vue)
 
 
 ![Pettier](https://github-profile-trophy.vercel.app/?username=Abdalrhman8000)
