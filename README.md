@@ -17,6 +17,12 @@
 
 # 03 [NFT - WEB](https://abdalrhman8000.github.io/NFT-WEB-/)
 
+# 04 [DEZZER - MUSIC](https://abdalrhman8000.github.io/DEZZER/)
+
+# 05 [KID - GAME](https://abdalrhman8000.github.io/DropGame/)
+
+# 06 [Student - Data - Manager ](https://abdalrhman8000.github.io/Administration-students-project/)
+
 ## 📩 Connect with me
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
