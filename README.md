@@ -21,7 +21,7 @@
 
 ## 05 [KID - GAME](https://abdalrhman8000.github.io/DropGame/)
 
-## 06 [Student - Data - Manager ](https://abdalrhman8000.github.io/Administration-students-project/)
+## 06 [Student - Data - Manager ](https://abdalrhman8000.github.io/Student-project-manager/)
 
 ## 📩 Connect with me
 <p align="left">
