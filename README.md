@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Black Wolf 👑</h1>
 <h2 align="center">Software Developer & Front End Developer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004080&style=flat" alt="a-hemeda" height="30" width="180" />
-	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="30" width="120" />
-</p>
 <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
