@@ -26,7 +26,7 @@
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a-hemeda" height="50" width="60" /></a>
-<a href="https://www.facebook.com/capo.king.7967/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="50" width="60" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="50" width="60" /></a>
 </p>
 
 ## 🛠 Languages and Tools
