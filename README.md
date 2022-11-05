@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Abdalrhman Eldip 👑</h1>
-<h2 align="center">Front End Developer Developer 💎</h2>
+<h1 align="center">Hi 👋, I'm Black Wolf 👑</h1>
+<h2 align="center">Soft Ware Developer & Front End Developer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004080&style=flat" alt="a-hemeda" height="30" width="180" />
 	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="30" width="120" />
@@ -40,15 +40,15 @@
 
 ## 📊 GitHub Stats
 
-![Pettier](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrhman8000&theme=vue)
+![Pettier](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-Wolf-2023&theme=vue)
 
-![Pettier](https://github-profile-trophy.vercel.app/?username=Abdalrhman8000)
-
-
-![Pettier](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalrhman8000)
+![Pettier](https://github-profile-trophy.vercel.app/?username=Black-Wolf-2023)
 
 
-![Pettier](https://github-readme-streak-stats.herokuapp.com/?user=Abdalrhman8000)
+![Pettier](https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Wolf-2023)
+
+
+![Pettier](https://github-readme-streak-stats.herokuapp.com/?user=Black-Wolf-2023)
 
 
 
