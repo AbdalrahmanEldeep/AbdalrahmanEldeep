@@ -12,17 +12,13 @@
 
 ## 02 [Soura Web](https://Black-Wolf-2023.github.io/Soura_web_lv_4/)
 
-## 03 [GROCY](https://Black-Wolf-2023.github.io/GROCY/)
+## 03 [NFT - WEB](https://Black-Wolf-2023.github.io/NFT-WEB-/)
 
-## 04 [Portofolio](https://portofolio-samcreative.netlify.app/)
+## 04 [DEZZER - MUSIC](https://Black-Wolf-2023.github.io/DEZZER/)
 
-## 05 [NFT - WEB](https://Black-Wolf-2023.github.io/NFT-WEB-/)
+## 05 [KID - GAME](https://Black-Wolf-2023.github.io/DropGame/)
 
-## 06 [DEZZER - MUSIC](https://Black-Wolf-2023.github.io/DEZZER/)
-
-## 07 [KID - GAME](https://Black-Wolf-2023.github.io/DropGame/)
-
-## 08 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)
+## 06 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)
 
 ## 📩 Connect with me
 <p align="left">
