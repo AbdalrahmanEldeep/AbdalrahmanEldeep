@@ -20,7 +20,7 @@
 
 ## 06 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)
 
-## 07 [Super - Market - Product - Manager ](https://black-wolf-2023.github.io/Super_Market_Product_Manager/)
+## 07 [Super - Market - Manager ](https://black-wolf-2023.github.io/Super_Market_Product_Manager/)
 
 
 
