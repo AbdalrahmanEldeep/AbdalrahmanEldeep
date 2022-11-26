@@ -20,6 +20,10 @@
 
 ## 06 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)
 
+## 07 [Super - Market - Product ](https://black-wolf-2023.github.io/Super_Market_Product_Manager/)
+
+
+
 ## 📩 Connect with me
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
