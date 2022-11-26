@@ -6,7 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-## 00 [MOVZELA](https://movzela.netlify.app/)
+## 00 [MOVZELA](https://movzila.netlify.app/)
 
 ## 01 [FUDO](https://fudo-app.netlify.app/)
 
