@@ -10,7 +10,7 @@
 
 ## 01 [FUDO](https://fudo-app.netlify.app/)
 
-## 02 [Soura Web](https://Black-Wolf-2023.github.io/Soura_web_lv_4/)
+## 02 [SOURA - APP](https://Black-Wolf-2023.github.io/Soura_web_lv_4/)
 
 ## 03 [NFT - WEB](https://Black-Wolf-2023.github.io/NFT-WEB-/)
 
