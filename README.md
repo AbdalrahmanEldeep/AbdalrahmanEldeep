@@ -6,21 +6,23 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-## 00 [MOVZELA](https://movzila.netlify.app/)
+## 00 [MOVZELA](https://movzila.netlify.app/)[REACT]
 
-## 01 [FUDO](https://fudo-app.netlify.app/)
+## 01 [FUDO](https://fudo-app.netlify.app/)[REACT]
 
-## 02 [SOURA - APP](https://Black-Wolf-2023.github.io/Soura_web_lv_4/)
+## 02 [ECOMMIRCE - APP](https://shopzila.netlify.app/)[REACT]
 
-## 03 [NFT - WEB](https://Black-Wolf-2023.github.io/NFT-WEB-/)
+## 03 [SOURA - APP](https://Black-Wolf-2023.github.io/Soura_web_lv_4/)[JS]
 
-## 04 [DEZZER - MUSIC](https://Black-Wolf-2023.github.io/DEZZER/)
+## 04 [NFT - WEB](https://Black-Wolf-2023.github.io/NFT-WEB-/)[JS]
 
-## 05 [KID - GAME](https://Black-Wolf-2023.github.io/DropGame/)
+## 05 [DEZZER - MUSIC](https://Black-Wolf-2023.github.io/DEZZER/)[JS]
 
-## 06 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)
+## 06 [KID - GAME](https://Black-Wolf-2023.github.io/DropGame/)[JS]
 
-## 07 [Super - Market - Manager ](https://black-wolf-2023.github.io/Super_Market_Product_Manager/)
+## 07 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)[TS]
+
+## 08 [Super - Market - Manager ](https://black-wolf-2023.github.io/Super_Market_Product_Manager/)[TS]
 
 
 
