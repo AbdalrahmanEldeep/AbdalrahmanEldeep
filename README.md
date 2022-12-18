@@ -54,5 +54,21 @@
 
 ![Pettier](https://github-readme-streak-stats.herokuapp.com/?user=Black-Wolf-2023)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Black-Wolf-2023&theme=onedark)](https://github.com/Black-Wolf-2023)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Wolf-2023&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Black-Wolf-2023&show_icons=true&count_private=true&bg_color=0D1117)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Black-Wolf-2023&bg_color=0D1117)  
+
+![GitHub metrics](https://metrics.lecoq.io/alvin-tosh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Black-Wolf-2023&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+
+![Profile views](https://gpvc.arturio.dev/alvin-tosh)  
+
+<!---
+.
 
 
