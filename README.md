@@ -44,10 +44,8 @@
 
 ## 📊 GitHub Stats
 
-![Pettier](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-Wolf-2023&theme=vue)
 
-![Pettier](https://github-profile-trophy.vercel.app/?username=Black-Wolf-2023)
-
+ 
 
 ![Pettier](https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Wolf-2023)
 
