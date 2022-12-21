@@ -8,21 +8,6 @@
 
 ## 00 [MOVZELA](https://movzila.netlify.app/)-[REACT]
 
-## 01 [FUDO](https://fudo-app.netlify.app/)-[REACT]
-
-## 02 [ECOMMIRCE - APP](https://shopzila.netlify.app/)-[REACT]
-
-## 03 [SOURA - APP](https://Black-Wolf-2023.github.io/Soura_web_lv_4/)-[JS]
-
-## 04 [NFT - WEB](https://Black-Wolf-2023.github.io/NFT-WEB-/)-[JS]
-
-## 05 [DEZZER - MUSIC](https://Black-Wolf-2023.github.io/DEZZER/)-[JS]
-
-## 06 [KID - GAME](https://Black-Wolf-2023.github.io/DropGame/)-[JS]
-
-## 07 [Student - Data - Manager ](https://Black-Wolf-2023.github.io/Student-project-manager/)-[TS]
-
-## 08 [Market - Manager ](https://black-wolf-2023.github.io/Super_Market_Product_Manager/)-[TS]
 
 
 
