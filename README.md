@@ -5,7 +5,7 @@
 <br>
 
   
-## 01 [MOVZELA](https://movzila.web.app/) [MORE DETAILS](https://github.com/Black-Wolf-2023/MOVZELA)
+## 01 [MOVZELA](https://movzila.web.app/) / [MORE DETAILS](https://github.com/Black-Wolf-2023/MOVZELA)
 
 
 
