@@ -4,9 +4,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <br>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-
-
   
 ##01 [MOVZELA](https://movzila.web.app/)-[React-Firebase]
 
@@ -21,7 +18,7 @@
 
 
 
-## Project Diagrams
+## MOVZELA Diagrams
 
 In this part you will see a simple diagram of the components of the project 
 
@@ -65,7 +62,7 @@ s --> D
 
 ```
 
-
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 ## 📩 Connect with me
 <p align="left">
