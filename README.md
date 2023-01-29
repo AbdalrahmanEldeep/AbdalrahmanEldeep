@@ -5,7 +5,7 @@
 <br>
 
   
-## 01 [MOVZELA](https://movzila.web.app/)-[React-Firebase]
+## 01 [MOVZELA](https://movzila.web.app/)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-## MOVZELA Diagrams
+## [MOVZELA](https://movzila.web.app/) Diagrams
 
 In this part you will see a simple diagram of the components of the project 
 
@@ -34,7 +34,7 @@ Home--> MovieRoute: On Click Get One Movie With ID
 MovieRoute->MovieComponent: Show The Movie
 ```
 
-## MOVZELA Flow Chart:
+## [MOVZELA](https://movzila.web.app/) Flow Chart:
 
 ```mermaid
 graph LR
