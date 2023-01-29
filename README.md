@@ -34,7 +34,7 @@ Home--> MovieRoute: On Click Get One Movie With ID
 MovieRoute->MovieComponent: Show The Movie
 ```
 
-And this will produce a flow chart:
+## MOVZELA Flow Chart:
 
 ```mermaid
 graph LR
