@@ -5,8 +5,8 @@
 <br>
 
   
-## 01 [MOVZELA](https://movzila.web.app/) / [MORE DETAILS](https://github.com/Abdalrhman8000/MOVZELA)
-
+## 01 [MOVZELA](https://movzila.web.app/) / [MORE DETAILS](https://github.com/AbdalrahmanEldeep/MOVZELA)
+## 02 [SELLEZYA](https://sellezya.web.app/) / [SELLEZYA DETAILS](https://github.com/AbdalrahmanEldeep/MOVZELA)
 
 
 |Partition       | Technology                    
