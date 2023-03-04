@@ -11,7 +11,7 @@
 |React          |
 |Firebase       |  
 |Context        |
-## 02 [SELLEZYA](https://sellezya.web.app/) / FullStack - Wb / [SELLEZYA DETAILS](https://github.com/AbdalrahmanEldeep/SELLEZYA)
+## 02 [SELLEZYA](https://sellezya-wb.web.app/) / FullStack - Wb / [SELLEZYA DETAILS](https://github.com/AbdalrahmanEldeep/SELLEZYA)
 |Technology     |                     
 |---------------|
 |React          |
