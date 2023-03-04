@@ -6,14 +6,19 @@
 
   
 ## 01 [MOVZELA](https://movzila.web.app/) / FullStack - Wb / [MORE DETAILS](https://github.com/AbdalrahmanEldeep/MOVZELA)
+|Technology     |                     
+|---------------|
+|React          |
+|Firebase       |  
+|Context        |
 ## 02 [SELLEZYA](https://sellezya.web.app/) / FullStack - Wb / [SELLEZYA DETAILS](https://github.com/AbdalrahmanEldeep/SELLEZYA)
-
-
-|Partition       | Technology                    
-|----------------|-------------------------------|
-|Ui/Ux Design    |`'I Used Figma to design components'`         
-|Front End       |`"React with some React libraries"`    
-|Back End        |`Firebase API`
+|Technology     |                     
+|---------------|
+|React          |
+|Chakra Ui      |
+|Vite           |
+|Firebase       |  
+|Redux          |
 
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
