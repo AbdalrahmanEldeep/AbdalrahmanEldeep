@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Black Wolf 👑</h1>
-<h2 align="center">Software Developer & Front End Developer 💎</h2>
+<h1 align="center">Hi 👋, I'm Abdelrahman 👑</h1>
+<h2 align="center"> Front End Developer & Ui/Ux Designer💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <br>
 
