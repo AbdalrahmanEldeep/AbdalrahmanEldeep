@@ -74,30 +74,14 @@ write markdown to discripe this data very well can you make it more amazing and 
 <br/>
 
   
-## 01 [MOVZELA](https://movzila.web.app/) / FullStack - Wb / [MORE DETAILS](https://github.com/abdelrahmanahmed20021/MOVZELA)
-|Technology     |                     
-|---------------|
-|React          |
-|Firebase       |  
-|Context        |
-## 02 [SELLEZYA](https://sellezya-wb.web.app/) / FullStack - Wb / [SELLEZYA DETAILS](https://github.com/abdelrahmanahmed20021/SELLEZYA)
-|Technology     |                     
-|---------------|
-|React          |
-|Chakra Ui      |
-|Vite           |
-|Firebase       |  
-|Redux          |
+Certainly! Here's an updated version of the table with the technology names replaced with corresponding images:
 
-## 03 [Earth-3D-Model](https://abdelrahmanahmed20021.github.io/Earth-3d-Model/) / WebThree - Wb / [Earth-3D-Model](https://github.com/abdelrahmanahmed20021/Earth-3d-Model)
-|Technology     |                     
-|---------------|
-|HTML           |
-|Javascript     |
-|CSS            |
-|Three.js       |  
-|Blender        |
-|Tween.js       |
+| Project Name                | Technology                                                    | Description                                                                                  |
+|-----------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [MOVZELA](https://movzila.web.app/)                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contextapi/contextapi-original.svg" width="25" height="25"/>                                      | MOVZELA is a FullStack Web application built using React and Firebase with Context API.       |
+| [SELLEZYA](https://sellezya-wb.web.app/)           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakra/chakra-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="25" height="25"/>                        | SELLEZYA is a FullStack Web application developed using React, Chakra UI, Vite, Firebase, and Redux. |
+| [Earth-3D-Model](https://abdelrahmanahmed20021.github.io/Earth-3d-Model/) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tween/tween-original.svg" width="25" height="25"/>       | Earth-3D-Model is a WebThree application created using HTML, Javascript, CSS, Three.js, Blender, and Tween.js. |
+
 
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
