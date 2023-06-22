@@ -84,12 +84,6 @@ write markdown to discripe this data very well can you make it more amazing and 
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-## 📩 Connect with me
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a-hemeda" height="50" width="60" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="50" width="60" /></a>
-</p>
 
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="300"/>
