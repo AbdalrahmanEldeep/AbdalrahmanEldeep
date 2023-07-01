@@ -1,4 +1,3 @@
-write markdown to discripe this data very well can you make it more amazing and attractive  
 <h1 align="center">Hi 👋, I'm Abdelrahman 👑</h1>
 <h2 align="center"> Front End Developer & Ui/Ux Designer💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
