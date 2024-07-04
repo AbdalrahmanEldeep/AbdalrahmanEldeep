@@ -45,7 +45,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="300"/>
 
 
-## 📊 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=onedark)](https://github.com/aahmed-black-wolf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmed-black-wolf&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
