@@ -48,9 +48,11 @@
 
 
 
-<h3>
+<div>
+ <h2>
   📊 GitHub Stats
 </h3>
+</div>
 
 <p >
   <img src="https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=onedark" alt="GitHub Trophy" />
