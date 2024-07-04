@@ -43,12 +43,30 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="300"/>
+<br/>
 
+## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=onedark)](https://github.com/aahmed-black-wolf)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=onedark" alt="GitHub Trophy" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmed-black-wolf&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahmed-black-wolf&theme=tokyonight&show_icons=true" alt="Top Languages" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aahmed-black-wolf&show_icons=true&count_private=true&bg_color=0D1117)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aahmed-black-wolf&show_icons=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aahmed-black-wolf&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmed-black-wolf&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+<p align="right">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" height="300"/>
+</p>
