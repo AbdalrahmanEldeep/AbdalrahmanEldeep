@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Ahmed 👑</h1>
 <h2 align="center"> Front End Engineer 💎</h2>
-<h3>Experienced Next.js Developer | React.js Specialist | JavaScript & TypeScript Expert</h3>
+<h3 align="center">Experienced Next.js Developer | React.js Specialist | JavaScript & TypeScript Expert</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <br>
 
