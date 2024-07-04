@@ -47,26 +47,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=onedark" alt="GitHub Trophy" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahmed-black-wolf&theme=tokyonight&show_icons=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=aahmed-black-wolf&show_icons=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmed-black-wolf&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
-<p align="right">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" height="300"/>
-</p>
