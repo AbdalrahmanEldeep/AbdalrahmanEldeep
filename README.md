@@ -40,11 +40,9 @@
 | [Shoppzila](https://shoppzila.vercel.app) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="25" height="25"/> | Shoppzila is an Ecommerce Web application developed using Next, Nextui, Vercel, with Redux. |
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-
-
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="300"/>
-<br>
+
 
 ## 📊 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=onedark)](https://github.com/aahmed-black-wolf)
